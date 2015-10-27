@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "DotNet5_Click2Cloud_Inc"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DotNet5_Click2Cloud_Inc-76fcdade-86b7-458f-a53e-49b0b8efe2ff;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
